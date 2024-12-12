@@ -7,3 +7,4 @@ from sklearn.metrics.pairwise import euclidean_distances
 
 import matplotlib.pyplot as plt
 
+
